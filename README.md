@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/piyushsnomadlife) 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/_piyushjena/)
 
-- Feel free to checkout my [portfolio](https://piyushjena.com/) website!
+- Feel free to checkout my [personal website](https://piyushjena.com/)!
 - 🏢 MS in Computer Science (ML Track) student at Columbia University
 - 🧰 I build with: `C` `C++`, `C#`, `Python` ...
 - ⚡ I enjoy coffee, photography, formula 1, and engineering :)
