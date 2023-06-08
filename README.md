@@ -5,6 +5,6 @@
 
 - Feel free to checkout my [personal website](https://piyushjena.com/)!
 - 🏢 MS in Computer Science (ML Track) student at Columbia University
-- 🧰 I build with: `C` `C++`, `C#`, `Python` ...
+- 🧰 I build with: `C`, `C++`, `C#`, `Python` ...
 - ⚡ I enjoy coffee, photography, formula 1, and engineering :)
 - 📫 Reach out to me: pj2400@columbia.edu
