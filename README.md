@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/_piyushjena/)
 
 - Feel free to checkout my [portfolio](https://piyushjena.com/) website!
-- 🏢 MS Computer Science (ML Track) student at Columbia University in the city of New York
+- 🏢 MS in Computer Science (ML Track) student at Columbia University
 - 🧰 I build with: `C` `C++`, `.NET`, `Python` ...
-- ⚡ I enjoy photography, formula 1, counter strike, and engineering :)
+- ⚡ I enjoy coffee, photography, formula 1, and engineering :)
 - 📫 Reach out to me: pj2400@columbia.edu
