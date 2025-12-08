@@ -5,6 +5,6 @@
 
 - Building [bottlerocket-os](https://github.com/bottlerocket-os/bottlerocket]) with AWS
 - 🏢 MS in Computer Science (ML Track) student at Columbia University
-- 🧰 I build with: `C`, `C++`, `C#`, `Python` and now `Rust` ...
+- 🧰 I build with: `C`, `C++`, `Python` and now `Rust` ...
 - ⚡ I enjoy coffee, photography, formula 1, and engineering :)
 - 📫 Reach out to me: pj2400@columbia.edu
